@@ -4,7 +4,7 @@ Exploratory data analysis of Walmart weekly sales using Python, Pandas, and Matp
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 An exploratory data analysis (EDA) of Walmart’s historical weekly sales data to identify seasonal revenue patterns, holiday impacts, and store-level performance disparities.
 
@@ -19,6 +19,7 @@ An exploratory data analysis (EDA) of Walmart’s historical weekly sales data t
 ---
 
 ## 🛠️ Tech Stack
+
 * **Language:** Python
 * **Data Manipulation:** Pandas
 * **Data Visualization:** Matplotlib
@@ -26,15 +27,16 @@ An exploratory data analysis (EDA) of Walmart’s historical weekly sales data t
 ---
 
 ## 📊 Visualizations & Insights
-*(Tip: Upload 2–3 of your best Matplotlib charts into an `images/` folder in your repo and link them here so recruiters can see your work immediately.)*
 
 * **Seasonal Sales Trends:** Line/bar plots tracking weekly revenue fluctuations across the year.
-* **Holiday vs. Non-Holiday Impact:** Comparative breakdown of holiday spikes.
-* **Top vs. Bottom 5 Stores:** Distribution and variance analysis across store locations.
+![Month Wise Weekly Sales](Report%20Visualization/9%29Month%20Wise%20Weekly%20Sales.png)
 
-```markdown
-<!-- Example image embed once you upload your charts: -->
-<!-- ![Seasonal Sales Trend](images/seasonal_trends.png) -->
+* **Holiday vs. Non-Holiday Impact:** Comparative breakdown of holiday spikes.
+![Average Weekly Sales by Holiday Flag](Report%20Visualization/7%29Average%20Weekly%20Sales%20by%20Holiday%20Flag.png)
+* **Top vs. Bottom 5 Stores:** Distribution and variance analysis across store locations.
+<img src= "Report Visualization/3) avg weekly sales of top 5.png" alt=For Top 5 performing stores />
+
+
 ```
 
 ---
