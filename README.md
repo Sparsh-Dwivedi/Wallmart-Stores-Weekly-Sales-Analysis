@@ -5,6 +5,7 @@ Exploratory data analysis of Walmart weekly sales using Python, Pandas, and Matp
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 An exploratory data analysis (EDA) of Walmart’s historical weekly sales data to identify seasonal revenue patterns, holiday impacts, and store-level performance disparities.
 
