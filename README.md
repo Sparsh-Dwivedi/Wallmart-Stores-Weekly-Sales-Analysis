@@ -2,7 +2,7 @@
 Exploratory data analysis of Walmart weekly sales using Python, Pandas, and Matplotlib to uncover seasonal trends and store performance gaps.
  🛒 Analysis of Weekly Sales at Walmart Stores
 
-![Python](https://shields.io)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://shields.io)
 ![Matplotlib](https://shields.io)
 
