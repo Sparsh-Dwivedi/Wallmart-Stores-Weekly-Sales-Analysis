@@ -33,8 +33,11 @@ An exploratory data analysis (EDA) of Walmart’s historical weekly sales data t
 
 * **Holiday vs. Non-Holiday Impact:** Comparative breakdown of holiday spikes.
 ![Average Weekly Sales by Holiday Flag](Report%20Visualization/7%29Average%20Weekly%20Sales%20by%20Holiday%20Flag.png)
+
 * **Top vs. Bottom 5 Stores:** Distribution and variance analysis across store locations.
-<img src= "Report Visualization/3) avg weekly sales of top 5.png" alt=For Top 5 performing stores />
+![Average Weekly Sales of Top 5 Stores](Report%20Visualization/3%29%20avg%20weekly%20sales%20of%20top%205.png)
+
+![Average Weekly Sales of Bottom 5 Stores](Report%20Visualization/5%29Average%20Weekly%20Sales%20of%20Bottom%205%20Stores.png)
 
 
 ```
